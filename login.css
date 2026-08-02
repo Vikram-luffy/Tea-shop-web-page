@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+}
+p {
+      display: block;
+      padding-top: 80px;
+     
+     
+      
+}
+div{
+    color:blanchedalmond;
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px rgb(44, 44, 44);
+    width: 500px;
+    height: 450px;
+    margin-top: 50px;
+
+}
+body {
+   background-color:  rgb(255, 178, 89);
+}
+a {
+    display: inline;
+}
+img {
+    width: 20px;
+    height: 20px;
+    display: ;
+}
+input {
+    background-color: transparent;
+    color: blanchedalmond;
+    border-radius: 5px;
+    box-shadow: 0 whitesmoke;
+}

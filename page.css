@@ -1,0 +1,74 @@
+h1 {
+    padding-right: 250px;
+    
+    border-radius: 10px;
+    cursor: pointer;
+}
+ul  {
+     border: 10px;
+}
+select {
+    background-color: rgb(184, 136, 77);
+    color: white;
+    width: 100px;
+    height: 25px;
+    border-radius: 8px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    color: blanchedalmond;
+    cursor: pointer;
+}
+.one {
+    padding-right: 500px;    
+    
+}
+body {
+    background-color: rgb(255, 178, 89);
+}
+.two{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: xx-large;
+    padding-top: 50px;
+}
+.three img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.three {
+    flex: 1;
+}
+.four {
+    flex:1;
+    padding-right: 50px;
+    color: rgba(255, 251, 251, 0.918);
+}
+@media (max-width: 768px) {
+    .two {
+       flex-direction: column;
+    }
+}
+.five {
+    font-family: georgia,sans-serif ;
+    font-style:italic ;
+}
+.go {
+    color: white;
+    background-color:rgb(216, 146, 62);
+    width: 100px;
+    border-radius: 20px;
+    box-shadow: 0 5px 25px rgb(196, 110, 5);
+    
+}
+p {
+    text-shadow: 0 15px 10px black;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: bold;
+}

@@ -1,0 +1,56 @@
+body{
+      background-color: rgb(255, 178, 89);
+}
+div {
+    padding-top: 50px;
+    word-spacing: 15px;
+   background-color: transparent;
+    
+    border-width: 2px;
+    box-shadow: 2px 5px 3px black;
+    border-radius: 10px;
+    
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    margin: center;
+    color: whitesmoke;
+  
+}
+h1 {
+    color: bisque;
+    padding-top: 20px;
+}
+tr {
+    line-height: 20px;
+    line-gap-override: 10px;
+}
+input {
+    background-color: transparent;
+    color: rgb(129, 129, 129);
+}
+select {
+    background-color: transparent;
+    border-radius: 5px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+.nine {
+     background-color: rgb(255, 178, 89);
+    color: antiquewhite;
+    border-radius: 5px;
+}
+button{
+    background-color: blanchedalmond;
+    color: rgb(59, 59, 59);
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 150px;
+    
+}
+a {
+   text-decoration: none;
+   color: rgb(31, 30, 30);
+
+}
